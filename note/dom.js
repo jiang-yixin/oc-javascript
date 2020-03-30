@@ -14,5 +14,21 @@ alert(queryAll[0].innerHTML + ' - ' + queryAll[1].innerHTML); // Affiche : "Él�
 // À la place declass, il faudra utiliserclassName.
 
 // ---------------------------------------------------------------------------------------------------------------------
+
 // innerHTML permet de récupérer le code HTML enfant d'un élément sous forme de texte
 // innerText=textContent seul le texte est récupéré, et non les balises
+
+// ---------------------------------------------------------------------------------------------------------------------
+
+// create an element
+var newLink = document.createElement('a');
+
+// ---------------------------------------------------------------------------------------------------------------------
+
+// reference
+
+// ---------------------------------------------------------------------------------------------------------------------
+
+// On va cloner un élément créé :
+// var hr1 = document.createElement('hr');
+// var hr2 = hr1.cloneNode(false); // Il n'a pas d'enfants…

@@ -1,0 +1,1 @@
+// envoyer un formulaire avec la méthode submit()du JavaScript ne déclenchera jamais l'événementsubmit!

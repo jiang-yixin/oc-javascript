@@ -10,6 +10,7 @@ var sayHello = function() {
 
 // ---------------------------------------------------------------------------------------------------------------------
 
+// immediately-invoked function expression IIFE
 // Les fonctions anonymes : isoler son code
 // Code externe
 
